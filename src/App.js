@@ -5,7 +5,7 @@ function App() {
   return (
     <section>
       <header>
-        <div className="container">
+        <div>
           <Navbar />
         </div>
       </header>
